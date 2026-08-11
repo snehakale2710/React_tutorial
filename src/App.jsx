@@ -1,7 +1,9 @@
-import Mainday05 from "./day05/Mainday05";
+import MainDay08 from "./day08/MainDay08"
 
 function App() {
-  return <Mainday05 />;
+    return (
+        <MainDay08 />
+    )
 }
 
-export default App;
+export default App
